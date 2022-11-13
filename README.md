@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dalvlos
-- 👀 I’m interested in learn and improve coding Dart and Flutter skills
-- 🌱 I’m currently learning coding Dart and Python.
+- 👀 Actuly work hard to improve coding Dart and Flutter skills
+- 🌱 Currently coding Dart and Python.
 - 💞️ I’m looking to collaborate on projects that my skills are useful
-- 📫 How to reach me dalvlos@hotmail.com or dalvlos@yahoo.co.jp
+- 📫 How to reach me dalvlos@yahoo.co.jp or dalvlos@hotmail.com
 
 <!---
 Dalvlos/Dalvlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
