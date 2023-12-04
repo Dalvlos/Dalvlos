@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dalvlos
-- 👀 Actuly work hard to improve coding Dart and Flutter skills
-- 🌱 Currently coding Dart and Python.
+- 👀 Actuly work hard to improve coding skills
+- 🌱 Currently coding Python.
 - 💞️ I’m looking to collaborate on projects that my skills are useful
 - 📫 How to reach me dalvlos@yahoo.co.jp or dalvlos@hotmail.com
 
