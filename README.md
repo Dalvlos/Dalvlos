@@ -2,7 +2,7 @@
 - 👀 Actuly work hard to improve coding skills
 - 🌱 Currently coding Python.
 - 💞️ I’m looking to collaborate on projects that my skills are useful
-- 📫 How to reach me dalvlos@yahoo.co.jp or dalvlos@hotmail.com
+- 📫 How to reach me dalvlos@yahoo.co.jp
 
 <!---
 Dalvlos/Dalvlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
