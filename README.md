@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dalvlos
-- 👀 Actuly work hard to improve coding skills
-- 🌱 Currently coding Python.
-- 💞️ I’m looking to collaborate on projects that my skills are useful
+- 👀 Learning Ruby and respective framework rails
+- 🌱 Currently coding Python on personal projects.
+- 💞️ I’m looking to collaborate on projects where my skills can be useful.
 - 📫 How to reach me dalvlos@yahoo.co.jp
 
 <!---
