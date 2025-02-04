@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dalvlos
-- 👀 Learning Ruby and respective framework rails
-- 🌱 Currently coding Python on personal projects.
+- 👀 working hard to change the word with code
+- 🌱 Currently coding Python and another web stacks on personal projects.
 - 💞️ I’m looking to collaborate on projects where my skills can be useful.
 - 📫 How to reach me dalvlos@hotmail.com
 
