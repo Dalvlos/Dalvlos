@@ -1,6 +1,5 @@
 - Hi, I’m @Dalvlos
 - Currently coding in web stacks on personal projects.
-- I’m looking to collaborate on projects where my skills can be useful.
 - contact me dalvlos@hotmail.com
 
 <!---
