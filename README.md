@@ -1,5 +1,5 @@
 - Hi, I’m @Dalvlos
-- Currently coding in web stacks on personal projects.
+- Currently coding in web stacks, swift and python on personal projects.
 - contact me dalvlos@hotmail.com
 
 <!---
